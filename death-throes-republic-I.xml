@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Dan Carlin's Hardcore History — Purchased Archive Test</title>
+<link>http://www.dancarlin.com</link>
+<description>Personal feed test containing Death Throes of the Republic I from a previously purchased Hardcore History archive.</description>
+<language>en-us</language>
+<itunes:author>Dan Carlin</itunes:author>
+<itunes:summary>Personal feed test containing Death Throes of the Republic I from a previously purchased Hardcore History archive.</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://s3-us-west-2.amazonaws.com/dcfeed/DC_HH_B.jpg" />
+<itunes:category text="Society &amp; Culture"><itunes:category text="History" /></itunes:category>
+<item>
+<title>Hardcore History 34 - Death Throes of the Republic I</title>
+<description>The wars which elevate Rome to superpower status also sow the seed for the downfall of its political system. Money, slaves, ambition, political stalemate and class warfare prove to be a toxic, bloody mix.</description>
+<itunes:subtitle>The wars which elevate Rome to superpower status also sow the seed for the downfall of its political system.</itunes:subtitle>
+<itunes:summary>The wars which elevate Rome to superpower status also sow the seed for the downfall of its political system. Money, slaves, ambition, political stalemate and class warfare prove to be a toxic, bloody mix.</itunes:summary>
+<pubDate>Sun, 27 Jun 2010 23:58:31 -0800</pubDate>
+<itunes:duration>01:22:22</itunes:duration>
+<link>http://www.dancarlin.com/product/hardcore-history-34-death-throes-of-the-republic-i/</link>
+<enclosure url="https://s3-us-west-2.amazonaws.com/dcfeed/34-Death-Throes-of-the-Republic-I-Hardcore-History-Dan-Carlin.mp3" length="79132020" type="audio/mpeg" />
+<guid isPermaLink="true">https://s3-us-west-2.amazonaws.com/dcfeed/34-Death-Throes-of-the-Republic-I-Hardcore-History-Dan-Carlin.mp3</guid>
+</item>
+</channel>
+</rss>
