@@ -1,21 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Dan Carlin's Hardcore History — Purchased Archive Test</title>
+<title>Dan Carlin's Hardcore History — Death Throes of the Republic</title>
 <link>http://www.dancarlin.com</link>
-<description>Personal feed test containing Death Throes of the Republic I from a previously purchased Hardcore History archive.</description>
+<description>Personal feed containing the complete six-part Death Throes of the Republic series from a previously purchased Hardcore History archive.</description>
 <language>en-us</language>
 <itunes:author>Dan Carlin</itunes:author>
-<itunes:summary>Personal feed test containing Death Throes of the Republic I from a previously purchased Hardcore History archive.</itunes:summary>
+<itunes:summary>Personal feed containing the complete six-part Death Throes of the Republic series from a previously purchased Hardcore History archive.</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://s3-us-west-2.amazonaws.com/dcfeed/DC_HH_B.jpg" />
 <itunes:category text="Society &amp; Culture"><itunes:category text="History" /></itunes:category>
 <item>
+<title>Hardcore History 39 - Death Throes of the Republic VI</title>
+<description>In a massive finish to the "Dan Carlin version" of the fall of the Roman Republic, conspiracies, civil wars,  beatniks of antiquity and a guy named Caesar figure prominently. Virtually everyone dies.</description>
+<itunes:subtitle>In a massive finish to the "Dan Carlin version" of the fall of the Roman Republic, conspiracies, civil wars,  beatniks of antiquity and a guy named Caesar figure prominently. Virtually everyone dies.</itunes:subtitle>
+<itunes:summary>In a massive finish to the "Dan Carlin version" of the fall of the Roman Republic, conspiracies, civil wars,  beatniks of antiquity and a guy named Caesar figure prominently. Virtually everyone dies.</itunes:summary>
+<pubDate>Wed, 29 Jun 2011 20:16:24 PST</pubDate>
+<itunes:duration>05:25:32</itunes:duration>
+<link>http://www.dancarlin.com/product/hardcore-history-39-death-throes-of-the-republic-vi/</link>
+<enclosure url="https://s3-us-west-2.amazonaws.com/dcfeed/39-Death-Throes-of-the-Republic-VI-Hardcore-History-Dan-Carlin.mp3" length="312568901" type="audio/mpeg" />
+<guid isPermaLink="true">https://s3-us-west-2.amazonaws.com/dcfeed/39-Death-Throes-of-the-Republic-VI-Hardcore-History-Dan-Carlin.mp3</guid>
+</item>
+<item>
+<title>Hardcore History 38 - Death Throes of the Republic V</title>
+<description>The last great generation of the Roman Republic emerges from the historical mists. The dynamic between Caesar, Cato, Cicero, Crassus and Pompey forms the axis around which the rest of this tale revolves.</description>
+<itunes:subtitle>The last great generation of the Roman Republic emerges from the historical mists. The dynamic between Caesar, Cato, Cicero, Crassus and Pompey forms the axis around which the rest of this tale revolves.</itunes:subtitle>
+<itunes:summary>The last great generation of the Roman Republic emerges from the historical mists. The dynamic between Caesar, Cato, Cicero, Crassus and Pompey forms the axis around which the rest of this tale revolves.</itunes:summary>
+<pubDate>Thu, 31 Mar 2011 23:56:16 PST</pubDate>
+<itunes:duration>01:25:51</itunes:duration>
+<link>http://www.dancarlin.com/product/hardcore-history-38-death-throes-of-the-republic-v/</link>
+<enclosure url="https://s3-us-west-2.amazonaws.com/dcfeed/38-Death-Throes-of-the-Republic-V-Hardcore-History-Dan-Carlin.mp3" length="103078986" type="audio/mpeg" />
+<guid isPermaLink="true">https://s3-us-west-2.amazonaws.com/dcfeed/38-Death-Throes-of-the-Republic-V-Hardcore-History-Dan-Carlin.mp3</guid>
+</item>
+<item>
+<title>Hardcore History 37 - Death Throes of the Republic IV</title>
+<description>Sulla returns to Rome to show the Republic what REAL political violence looks like. Civil war and deadly partisan payback will pave the way for reforms pushed at sword point. Lots of heads will roll...literally.</description>
+<itunes:subtitle>Sulla returns to Rome to show the Republic what REAL political violence looks like. Civil war and deadly partisan payback will pave the way for reforms pushed at sword point. Lots of heads will roll...literally.</itunes:subtitle>
+<itunes:summary>Sulla returns to Rome to show the Republic what REAL political violence looks like. Civil war and deadly partisan payback will pave the way for reforms pushed at sword point. Lots of heads will roll...literally.</itunes:summary>
+<pubDate>Thu, 27 Jan 2011 23:38:59 PST</pubDate>
+<itunes:duration>01:25:03</itunes:duration>
+<link>http://www.dancarlin.com/product/hardcore-history-37-death-throes-of-the-republic-iv</link>
+<enclosure url="https://s3-us-west-2.amazonaws.com/dcfeed/37-Death-Throes-of-the-Republic-IV-Hardcore-History-Dan-Carlin.mp3" length="102109844" type="audio/mpeg" />
+<guid isPermaLink="true">https://s3-us-west-2.amazonaws.com/dcfeed/37-Death-Throes-of-the-Republic-IV-Hardcore-History-Dan-Carlin.mp3</guid>
+</item>
+<item>
+<title>Hardcore History 36 - Death Throes of the Republic III</title>
+<description>Rome's political violence expands in intensity from riots and assassinations to outright war as the hyper-ambitious generals Marius and Sulla tear the Republic and its constitution apart vying for power and glory.</description>
+<itunes:subtitle>Rome's political violence expands in intensity from riots and assassinations to outright war as the hyper-ambitious generals Marius and Sulla tear the Republic and its constitution apart vying for power and glory.</itunes:subtitle>
+<itunes:summary>Rome's political violence expands in intensity from riots and assassinations to outright war as the hyper-ambitious generals Marius and Sulla tear the Republic and its constitution apart vying for power and glory.</itunes:summary>
+<pubDate>Sat, 30 Oct 2010 18:11:59 PST</pubDate>
+<itunes:duration>01:37:44</itunes:duration>
+<link>http://www.dancarlin.com/product/hardcore-history-36-death-throes-of-the-republic-iii</link>
+<enclosure url="https://s3-us-west-2.amazonaws.com/dcfeed/36-Death-Throes-of-the-Republic-III-Hardcore-History-Dan-Carlin.mp3" length="93923179" type="audio/mpeg" />
+<guid isPermaLink="true">https://s3-us-west-2.amazonaws.com/dcfeed/36-Death-Throes-of-the-Republic-III-Hardcore-History-Dan-Carlin.mp3</guid>
+</item>
+<item>
+<title>Hardcore History 35 - Death Throes of the Republic II</title>
+<description>Disaster threatens the Republic, but the cure might be worse than the disease. "The Dan Carlin version" of this story continues with ambition-addict Marius dominating the story and Plutarch dominating the sources.</description>
+<itunes:subtitle>Disaster threatens the Republic, but the cure might be worse than the disease. "The Dan Carlin version" of this story continues with ambition-addict Marius dominating the story and Plutarch dominating the sources.</itunes:subtitle>
+<itunes:summary>Disaster threatens the Republic, but the cure might be worse than the disease. "The Dan Carlin version" of this story continues with ambition-addict Marius dominating the story and Plutarch dominating the sources.</itunes:summary>
+<pubDate>Sun, 29 Aug 2010 21:43:11 PST</pubDate>
+<itunes:duration>01:35:15</itunes:duration>
+<link>http://www.dancarlin.com/product/hardcore-history-35-death-throes-of-the-republic-ii</link>
+<enclosure url="https://s3-us-west-2.amazonaws.com/dcfeed/35-Death-Throes-of-the-Republic-II-Hardcore-History-Dan-Carlin.mp3" length="91495253" type="audio/mpeg" />
+<guid isPermaLink="true">https://s3-us-west-2.amazonaws.com/dcfeed/35-Death-Throes-of-the-Republic-II-Hardcore-History-Dan-Carlin.mp3</guid>
+</item>
+<item>
 <title>Hardcore History 34 - Death Throes of the Republic I</title>
 <description>The wars which elevate Rome to superpower status also sow the seed for the downfall of its political system. Money, slaves, ambition, political stalemate and class warfare prove to be a toxic, bloody mix.</description>
-<itunes:subtitle>The wars which elevate Rome to superpower status also sow the seed for the downfall of its political system.</itunes:subtitle>
+<itunes:subtitle>The wars which elevate Rome to superpower status also sow the seed for the downfall of its political system. Money, slaves, ambition, political stalemate and class warfare prove to be a toxic, bloody mix.</itunes:subtitle>
 <itunes:summary>The wars which elevate Rome to superpower status also sow the seed for the downfall of its political system. Money, slaves, ambition, political stalemate and class warfare prove to be a toxic, bloody mix.</itunes:summary>
-<pubDate>Sun, 27 Jun 2010 23:58:31 -0800</pubDate>
+<pubDate>Sun, 27 Jun 2010 23:58:31 PST</pubDate>
 <itunes:duration>01:22:22</itunes:duration>
 <link>http://www.dancarlin.com/product/hardcore-history-34-death-throes-of-the-republic-i/</link>
 <enclosure url="https://s3-us-west-2.amazonaws.com/dcfeed/34-Death-Throes-of-the-Republic-I-Hardcore-History-Dan-Carlin.mp3" length="79132020" type="audio/mpeg" />
