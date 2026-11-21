@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Dan Carlin's Hardcore History – Death Throes of the Republic II</title>
+<link>http://www.dancarlin.com</link>
+<description>Personal podcast feed for Death Throes of the Republic II</description>
+<language>en-us</language>
+<itunes:author>Dan Carlin</itunes:author>
+<itunes:summary>Personal podcast feed for Death Throes of the Republic II</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://s3-us-west-2.amazonaws.com/dcfeed/DC_HH_B.jpg" />
+<itunes:category text="Society &amp; Culture"><itunes:category text="History" /></itunes:category>
+<item>
+<title>Hardcore History 35 - Death Throes of the Republic II</title>
+<description>Disaster threatens the Republic, but the cure might be worse than the disease. "The Dan Carlin version" of this story continues with ambition-addict Marius dominating the story and Plutarch dominating the sources.</description>
+<itunes:subtitle>Disaster threatens the Republic, but the cure might be worse than the disease. "The Dan Carlin version" of this story continues with ambition-addict Marius dominating the story and Plutarch dominating the sources.</itunes:subtitle>
+<itunes:summary>Disaster threatens the Republic, but the cure might be worse than the disease. "The Dan Carlin version" of this story continues with ambition-addict Marius dominating the story and Plutarch dominating the sources.</itunes:summary>
+<pubDate>Sun, 29 Aug 2010 21:43:11 PST</pubDate>
+<itunes:duration>01:35:15</itunes:duration>
+<itunes:keywords> podcast,Rome, Marius, Sulla, Greece, war, military, legion, ancient, history, podcast, constitution, senate, German, Gauls, Celts, barbarians, revolution, Civil, Cimbri, Teutons, Caesar, republic, dictator </itunes:keywords>
+<link>http://www.dancarlin.com/product/hardcore-history-35-death-throes-of-the-republic-ii</link>
+<enclosure url="https://s3-us-west-2.amazonaws.com/dcfeed/35-Death-Throes-of-the-Republic-II-Hardcore-History-Dan-Carlin.mp3" length="91495253" type="audio/mpeg" />
+<guid>https://s3-us-west-2.amazonaws.com/dcfeed/35-Death-Throes-of-the-Republic-II-Hardcore-History-Dan-Carlin.mp3</guid>
+</item>								
+
+
+</channel>
+</rss>
